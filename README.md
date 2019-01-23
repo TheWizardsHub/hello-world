@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi Viewers!
+
+I'm TheWizardsHub. Nice to meet you.
